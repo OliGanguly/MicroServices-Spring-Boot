@@ -15,3 +15,5 @@ It is server where different microservices will register themselves and serach a
 say we have 10 microservices and one microservices want to connect to other microservice .
 
 ![Service-Registry](https://github.com/OliGanguly/MicroServices-Spring-Boot/assets/82031303/ced303ff-e166-4121-80f6-7778aaec46ce)
+
+* Creating a service-Registry -> eureka , spring web dependency
