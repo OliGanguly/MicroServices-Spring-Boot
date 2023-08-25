@@ -1,0 +1,10 @@
+
+spring:
+  application:
+    name: department-service
+  config:
+    import: "optional:configserver:http://localhost:8088"
+    #optional - if config server not available then still the application will start,it wont fail
+#go and connect with eureka service-registry
+#other configuration are on config-server
+
