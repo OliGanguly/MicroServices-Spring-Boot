@@ -17,3 +17,11 @@ say we have 10 microservices and one microservices want to connect to other micr
 ![Service-Registry](https://github.com/OliGanguly/MicroServices-Spring-Boot/assets/82031303/ced303ff-e166-4121-80f6-7778aaec46ce)
 
 * Creating a service-Registry -> eureka , spring web dependency
+
+Two services are UP in Eureka server
+![Screenshot 2023-08-25 111400](https://github.com/OliGanguly/MicroServices-Spring-Boot/assets/82031303/d5804125-7bc0-48d2-97a6-a6ba08577b9e)
+
+ZipKin
+![Zipkin1](https://github.com/OliGanguly/MicroServices-Spring-Boot/assets/82031303/673dca9a-ad6b-4775-bfbf-79cfbe1ad4d8)
+
+
